@@ -1,0 +1,24 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+          <option value="E402" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bool.size" />
+          <option value="trc.evaluation.functional_test_cases.ADC420HA22.ft_non_functional.FtCem35.groupSequence" />
+          <option value="scripts.automation.saftey_automation_foler_creation" />
+          <option value="scripts.automation.CFG_XML_Automation.saftey_automation_foler_creation" />
+          <option value="scripts.automation.SYS100_automation.self" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
